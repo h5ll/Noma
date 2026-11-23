@@ -45,7 +45,6 @@ This repository is public so anyone can follow the development and inspect the s
 ## Links
 
 - Website: Coming soon
-- Desktop app: Coming soon
 
 ---
 
