@@ -29,7 +29,7 @@ export function RegisterForm() {
       <div className="w-full max-w-md">
         <div className="mb-8 text-center">
           <Link href="/" className="text-3xl font-bold tracking-tight">
-            Spoke<span className="text-indigo-500">.</span>
+            Nomaa<span className="text-indigo-500">.</span>
           </Link>
 
           <p className="mt-3 text-sm text-zinc-400">
