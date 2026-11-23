@@ -1,14 +1,14 @@
-# Spoke
+# Noma
 
 A real-time chat platform.
 
-Spoke is being built to make online communication simple, fast, and reliable.
+Noma is being built to make online communication simple, fast, and reliable.
 
 The goal is to create a place where people can chat, connect, and communicate without unnecessary complexity.
 
 ## Features
 
-Spoke is currently in development. Planned features include:
+Noma is currently in development. Planned features include:
 
 - Real-time messaging
 - Public chatrooms
@@ -21,7 +21,7 @@ Spoke is currently in development. Planned features include:
 
 ## Platforms
 
-Spoke is planned to be available on:
+Noma is planned to be available on:
 
 - Web
 - Windows desktop (planned)
@@ -30,7 +30,7 @@ More platforms may be considered in the future.
 
 ## Development
 
-Spoke is currently being developed. Features and improvements will be added over time.
+Noma is currently being developed. Features and improvements will be added over time.
 
 This repository is public so anyone can follow the development and inspect the source code.
 
@@ -48,4 +48,4 @@ This repository is public so anyone can follow the development and inspect the s
 
 ---
 
-© 2026 Spoke. All rights reserved.
+© 2026 Noma. All rights reserved.
